@@ -1,7 +1,7 @@
-package com.empresa.producao.controller;
+package br.estacio.producao.controller;
 
-import com.empresa.producao.model.ProducaoMensal;
-import com.empresa.producao.service.ProducaoService;
+import br.estacio.producao.model.ProducaoMensal;
+import br.estacio.producao.service.ProducaoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

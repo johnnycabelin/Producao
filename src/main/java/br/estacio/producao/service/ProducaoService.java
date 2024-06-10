@@ -1,7 +1,7 @@
-package com.empresa.producao.service;
+package br.estacio.producao.service;
 
-import com.empresa.producao.model.ProducaoMensal;
-import com.empresa.producao.repository.ProducaoMensalRepository;
+import br.estacio.producao.model.ProducaoMensal;
+import br.estacio.producao.repository.ProducaoMensalRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,6 +1,6 @@
-package com.empresa.producao.repository;
+package br.estacio.producao.repository;
 
-import com.empresa.producao.model.ProducaoMensal;
+import br.estacio.producao.model.ProducaoMensal;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
